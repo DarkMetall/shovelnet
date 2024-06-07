@@ -1,5 +1,7 @@
 
+using Core.Interfaces;
 using Infastructure.Data;
+using InfraStructure.Data;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -14,9 +16,11 @@ builder.Services.AddDbContext<StoreContext>(opt=>
 {
     //Connecting db
 opt.UseSqlite(builder.Configuration.GetConnectionString("DefaultConnection"));
-
 }
 );
+builder.Services.AddScoped<IProductRepository, ProductRepository>();
+
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

@@ -35,5 +35,19 @@ public ProductsController(IProductRepository repo)
 
         }
 
+         [HttpGet("brands")]
+        public async Task<ActionResult<IReadOnlyList<ProductBrand>>> GetProductBrands()
+        {
+            return Ok( await _repo.GetProductBrandsAsync());
+
+        }
+
+         [HttpGet("types")]
+        public async Task<ActionResult<Product>> GetProductTypes()
+        {
+            return Ok(await  _repo.GetProductTypesAsync());
+
+        }
+
     }
 }

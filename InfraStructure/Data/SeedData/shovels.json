@@ -1,0 +1,82 @@
+[
+  {
+    "Name": "Steel Shovel",
+    "Description": "Durable digging tool",
+    "Price": 25.99,
+    "PictureUrl": "https://example.com/steel_shovel.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Aluminum Shovel",
+    "Description": "Lightweight digger",
+    "Price": 22.99,
+    "PictureUrl": "https://example.com/aluminum_shovel.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Plastic Shovel",
+    "Description": "Economical spade",
+    "Price": 9.99,
+    "PictureUrl": "https://example.com/plastic_shovel.jpg",
+    "ProductTypeId": 3,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Wooden Shovel",
+    "Description": "Classic garden tool",
+    "Price": 15.99,
+    "PictureUrl": "https://example.com/wooden_shovel.jpg",
+    "ProductTypeId": 4,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Folding Shovel",
+    "Description": "Compact camping tool",
+    "Price": 19.99,
+    "PictureUrl": "https://example.com/folding_shovel.jpg",
+    "ProductTypeId": 5,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Garden Shovel",
+    "Description": "For planting tasks",
+    "Price": 18.99,
+    "PictureUrl": "https://example.com/garden_shovel.jpg",
+    "ProductTypeId": 6,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "Snow Shovel",
+    "Description": "Winter essential",
+    "Price": 30.99,
+    "PictureUrl": "https://example.com/snow_shovel.jpg",
+    "ProductTypeId": 7,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Power Shovel",
+    "Description": "Electric digger",
+    "Price": 85.99,
+    "PictureUrl": "https://example.com/power_shovel.jpg",
+    "ProductTypeId": 8,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Trenching Shovel",
+    "Description": "Deep digging tool",
+    "Price": 33.99,
+    "PictureUrl": "https://example.com/trenching_shovel.jpg",
+    "ProductTypeId": 9,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Scoop Shovel",
+    "Description": "Bulk material mover",
+    "Price": 29.99,
+    "PictureUrl": "https://example.com/scoop_shovel.jpg",
+    "ProductTypeId": 10,
+    "ProductBrandId": 2
+  }
+]

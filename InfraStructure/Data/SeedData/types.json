@@ -1,0 +1,102 @@
+[
+    {
+        "Id": 1,
+        "Name": "Round Point Shovel"
+    },
+    {
+        "Id": 2,
+        "Name": "Square Point Shovel"
+    },
+    {
+        "Id": 3,
+        "Name": "Scoop Shovel"
+    },
+    {
+        "Id": 4,
+        "Name": "Trenching Shovel"
+    },
+    {
+        "Id": 5,
+        "Name": "Drain Spade"
+    },
+    {
+        "Id": 6,
+        "Name": "Garden Shovel"
+    },
+    {
+        "Id": 7,
+        "Name": "Snow Shovel"
+    },
+    {
+        "Id": 8,
+        "Name": "Power Shovel"
+    },
+    {
+        "Id": 9,
+        "Name": "Coal Shovel"
+    },
+    {
+        "Id": 10,
+        "Name": "Roofing Shovel"
+    },
+    {
+        "Id": 11,
+        "Name": "Scraper Shovel"
+    },
+    {
+        "Id": 12,
+        "Name": "Scoop Shovel"
+    },
+    {
+        "Id": 13,
+        "Name": "Ditch Shovel"
+    },
+    {
+        "Id": 14,
+        "Name": "Edging Shovel"
+    },
+    {
+        "Id": 15,
+        "Name": "Hand Shovel"
+    },
+    {
+        "Id": 16,
+        "Name": "Folding Shovel"
+    },
+    {
+        "Id": 17,
+        "Name": "Post Hole Shovel"
+    },
+    {
+        "Id": 18,
+        "Name": "Tree Planting Shovel"
+    },
+    {
+        "Id": 19,
+        "Name": "Fire Shovel"
+    },
+    {
+        "Id": 20,
+        "Name": "Concrete Shovel"
+    },
+    {
+        "Id": 21,
+        "Name": "Serrated Shovel"
+    },
+    {
+        "Id": 22,
+        "Name": "Flat Shovel"
+    },
+    {
+        "Id": 23,
+        "Name": "Spading Shovel"
+    },
+    {
+        "Id": 24,
+        "Name": "Digging Shovel"
+    },
+    {
+        "Id": 25,
+        "Name": "Transfer Shovel"
+    }
+]
